@@ -1,0 +1,34 @@
+_repo: Cloudy-Jewel_30006
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hill, Grace Livingston
+    aliases:
+    - Lutz, Grace Livingston Hill
+    - Livingston, Grace
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '2299'
+    url: http://www.gutenberg.org/2009/agents/2299
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Livingston_Hill
+description: A spinster by the standards of her era, Julia Cloud has agreed to spend
+  the rest of her days engaged in domestic servitude in the household of her sister.
+  Resigned to a lifetime of loneliness, she's all the more surprised when an unlikely
+  attraction begins to blossom. Cloudy Jewel is a treat for fans of uplifting historical
+  romance.
+gutenberg_issued: '2009-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aunts -- Fiction'
+- !lcc 'PS'
+title: Cloudy Jewel
+url: http://www.gutenberg.org/ebooks/30006
